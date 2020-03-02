@@ -1,0 +1,5 @@
+I would test the program in Q1 by making a table of cases where I could expect the program
+to do certain tasks. The table would have the following columns: input, expected outcome,
+actual outcome. If the expected outcome didn't match the actual outcome at any stage, I
+would begin to troubleshoot the issue and fix the code before running each of the test
+cases again.
