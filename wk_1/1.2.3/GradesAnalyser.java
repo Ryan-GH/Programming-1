@@ -19,6 +19,7 @@ public class GradesAnalyser {
         System.out.printf("Average grade: %f%nHighest mark: %d%nLowest mark: %d%n",
                 (double) (mark1 + mark2 + mark3) / 3, Math.max(mark1, Math.max(mark2, mark3)),
                 Math.min(mark1, Math.min(mark2, mark3)));
+        scanner.close();
     }
 
     public static void main(String[] args) {
